@@ -8,6 +8,44 @@ This repo is a showcase. The game is in active development and the source is pri
 
 **Team:** 2 developers ([DenyaSolyara](https://github.com/DenyaSolyara), [Mokryi](https://github.com/Mokryi)) · **Engine:** Unity 6, C# · **Size:** ~32,000 lines of C#
 
+<p align="center"><img src="media/menu_storm.gif" width="720" alt="A late-game siege behind the main menu"><br><sub>The main menu backdrop: a late-game siege with a kill streak near 20,000</sub></p>
+
+## The cast
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="media/skel_walk.gif" width="120"><br><sub>walk</sub></td>
+    <td align="center"><img src="media/skel_slash.gif" width="120"><br><sub>attack</sub></td>
+    <td align="center"><img src="media/skel_push.gif" width="120"><br><sub>push</sub></td>
+    <td align="center"><img src="media/skel_pull.gif" width="120"><br><sub>pull</sub></td>
+    <td align="center"><img src="media/skel_crumble.gif" width="120"><br><sub>crumble</sub></td>
+  </tr>
+</table>
+
+## Traps
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="media/trap_tesla.gif" width="120"><br><sub>tesla</sub></td>
+    <td align="center"><img src="media/trap_flamer.gif" width="120"><br><sub>flamer</sub></td>
+    <td align="center"><img src="media/trap_gas.gif" width="120"><br><sub>gas</sub></td>
+    <td align="center"><img src="media/trap_spikes.gif" width="120"><br><sub>spikes</sub></td>
+  </tr>
+</table>
+
+## The world
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="media/fx_portal.gif" width="120"><br><sub>portal</sub></td>
+    <td align="center"><img src="media/fx_balllightning.gif" width="120"><br><sub>ball lightning</sub></td>
+    <td align="center"><img src="media/fx_explosion.gif" width="120"><br><sub>explosion</sub></td>
+    <td align="center"><img src="media/fx_bat.gif" width="120"><br><sub>bat swarm</sub></td>
+    <td align="center"><img src="media/fx_ghost.gif" width="120"><br><sub>ghost</sub></td>
+    <td align="center"><img src="media/fx_coin.gif" width="120"><br><sub>gold</sub></td>
+  </tr>
+</table>
+
 ---
 
 ## The game
