@@ -8,6 +8,8 @@ This repo is a showcase. The game is in active development and the source is pri
 
 **Team:** 2 developers ([DenyaSolyara](https://github.com/DenyaSolyara), [Mokryi](https://github.com/Mokryi)) · **Engine:** Unity 6, C# · **Size:** ~32,000 lines of C#
 
+<p align="center"><a href="https://github.com/DenyaSolyara/desktop-skeletons/releases/latest/download/DesktopSkeletons-win64.zip"><img src="https://img.shields.io/badge/Download-Windows%20build%20(80%20MB)-2ea44f?style=for-the-badge&logo=windows" alt="Download the Windows build"></a><br><sub>Unzip and run <code>DesktopSkeleton.exe</code>. If Windows SmartScreen pops up, click More info, then Run anyway. <a href="https://github.com/DenyaSolyara/desktop-skeletons/releases/latest">Controls and notes</a></sub></p>
+
 <p align="center"><img src="media/menu_storm.gif" width="720" alt="A late-game siege behind the main menu"><br><sub>The main menu backdrop: a late-game siege with a kill streak near 20,000</sub></p>
 
 ## The cast
