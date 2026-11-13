@@ -1,6 +1,6 @@
 # Desktop Skeletons
 
-<img src="media/skeleton_walk.gif" width="160" align="right" alt="Skeleton walk cycle">
+<p align="center"><img src="media/chibi_run.gif" width="496" alt="Chibi skeletons running"></p>
 
 A Windows tower defense in Unity 6 that I'm building with a friend. A horde of chibi skeletons pours out of a portal and walks toward the Heart. You build a maze, place traps, keep them fed through supply lines, and hold out through siege waves. When the Heart finally falls, the souls you earned stay on your account and buy a stronger start next run.
 
