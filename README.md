@@ -12,7 +12,15 @@ This repo is a showcase. The game is in active development and the source is pri
 
 <p align="center"><img src="media/menu_storm.gif" width="720" alt="A late-game siege behind the main menu"><br><sub>The main menu backdrop: a late-game siege with a kill streak near 20,000</sub></p>
 
-## The cast
+## Enemies
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="media/skel_walk.gif" width="120"><br><sub>chibi skeleton</sub></td>
+  </tr>
+</table>
+
+## Animations
 
 <table align="center">
   <tr>
@@ -26,10 +34,40 @@ This repo is a showcase. The game is in active development and the source is pri
 
 <table align="center">
   <tr>
-    <td align="center"><img src="media/trap_tesla.gif" width="120"><br><sub>tesla</sub></td>
+    <td align="center"><img src="media/trap_spikes.gif" width="120"><br><sub>spikes</sub></td>
+    <td align="center"><img src="media/trap_saw.gif" width="120"><br><sub>saw</sub></td>
+    <td align="center"><img src="media/trap_ice.png" width="120"><br><sub>ice</sub></td>
+    <td align="center"><img src="media/trap_spring.png" width="120"><br><sub>spring</sub></td>
+    <td align="center"><img src="media/trap_plate.png" width="120"><br><sub>push plate</sub></td>
+  </tr>
+  <tr>
     <td align="center"><img src="media/trap_flamer.gif" width="120"><br><sub>flamer</sub></td>
     <td align="center"><img src="media/trap_gas.gif" width="120"><br><sub>gas</sub></td>
-    <td align="center"><img src="media/trap_spikes.gif" width="120"><br><sub>spikes</sub></td>
+    <td align="center"><img src="media/trap_tesla.gif" width="120"><br><sub>tesla</sub></td>
+    <td align="center"><img src="media/trap_minigun.gif" width="120"><br><sub>minigun</sub></td>
+    <td align="center"><img src="media/trap_rocket.png" width="120"><br><sub>rocket launcher</sub></td>
+  </tr>
+</table>
+
+## Supply lines
+
+Guns don't run on their own: the player wires them up to ports on the board.
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="media/line_wire.gif" width="300"><br><sub>power cable</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="media/line_pipe_ammo.gif" width="300"><br><sub>ammo</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="media/line_pipe_rocket.gif" width="300"><br><sub>rockets</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="media/line_pipe_gas.gif" width="300"><br><sub>gas</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="media/line_pipe_fire.gif" width="300"><br><sub>fire</sub></td>
   </tr>
 </table>
 
@@ -43,6 +81,23 @@ This repo is a showcase. The game is in active development and the source is pri
     <td align="center"><img src="media/fx_bat.gif" width="120"><br><sub>bat swarm</sub></td>
     <td align="center"><img src="media/fx_ghost.gif" width="120"><br><sub>ghost</sub></td>
     <td align="center"><img src="media/fx_coin.gif" width="120"><br><sub>gold</sub></td>
+  </tr>
+</table>
+
+## Cut content
+
+The necromancer, the priest, and the ogre come from an earlier version of the game. They were cut when we rebuilt it around the horde, but the art is still worth showing.
+
+<table align="center">
+  <tr>
+    <td align="center"><img src="media/cut_necromancer_walk.gif" width="120"><br><sub>necromancer</sub></td>
+    <td align="center"><img src="media/cut_necromancer_cast.gif" width="120"><br><sub>necromancer cast</sub></td>
+    <td align="center"><img src="media/cut_priest_walk.gif" width="120"><br><sub>priest</sub></td>
+    <td align="center"><img src="media/cut_priest_cast.gif" width="120"><br><sub>priest cast</sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="media/cut_ogre_walk.gif" width="120"><br><sub>ogre</sub></td>
+    <td align="center"><img src="media/cut_ogre_swing.gif" width="120"><br><sub>ogre swing</sub></td>
   </tr>
 </table>
 
