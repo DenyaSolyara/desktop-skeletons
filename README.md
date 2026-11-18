@@ -18,7 +18,6 @@ This repo is a showcase. The game is in active development and the source is pri
   <tr>
     <td align="center"><img src="media/skel_walk.gif" width="120"><br><sub>walk</sub></td>
     <td align="center"><img src="media/skel_slash.gif" width="120"><br><sub>attack</sub></td>
-    <td align="center"><img src="media/skel_pull.gif" width="120"><br><sub>pull</sub></td>
     <td align="center"><img src="media/skel_crumble.gif" width="120"><br><sub>crumble</sub></td>
   </tr>
 </table>
